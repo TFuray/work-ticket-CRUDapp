@@ -1,0 +1,22 @@
+{
+  "name": "work-ticket-crudapp",
+  "version": "1.0.0",
+  "description": "work ticket app to use around the house to more efficiently get things unbroken.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TFuray/work-ticket-CRUDapp.git"
+  },
+  "author": "TFuray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TFuray/work-ticket-CRUDapp/issues"
+  },
+  "homepage": "https://github.com/TFuray/work-ticket-CRUDapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
