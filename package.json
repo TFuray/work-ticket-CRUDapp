@@ -4,6 +4,7 @@
   "description": "work ticket app to use around the house to more efficiently get things unbroken.",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/TFuray/work-ticket-CRUDapp#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
